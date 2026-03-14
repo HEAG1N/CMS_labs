@@ -96,14 +96,44 @@ Ne logam si intram in pagina principala
 
 2.1 pluginul Classic Editor (pentru editorul clasic de postări);
 
-
+<img src="imagini/s18.png" width="500">
 
 2.2 pluginul Contact Form 7 (pentru adăugarea unui formular de contact).
 
+<img src="imagini/s19.png" width="500">
 
+<img src="imagini/s20.png" width="500">
 
 3.Verifică noile funcționalități în panoul de administrare (adăugarea unei postări cu Classic Editor și crearea unui formular cu Contact Form 7).
 
-
+<img src="imagini/s21.png" width="500">
 
 4.În Plugins → Installed Plugins, dezactivează unul dintre plugin-uri și asigură-te că funcționalitatea acestuia a dispărut.
+
+<img src="imagini/s22.png" width="500">
+
+<img src="imagini/s23.png" width="500">
+
+Observam ca a disparut Contact(ceea ce demonstreaza ca pluginul Contact form a fost deactivat)
+
+### Pasul 6. Crearea de conținut
+
+1.Creează o pagină simplă „Contacte” și inserează formularul de contact.
+
+Accesam Contact->Contact Form si copiem continutul din Shortcode
+
+
+
+Accesam Pages->Add page si inseram codul copiat si publicam pagina
+
+2.Creează câteva postări pe blog cu conținut diferit (text, imagini).
+
+Accesam Pages->Add page si inseram imaginea si textul si publicam pagina
+
+
+
+3.Verifică modul în care este afișat conținutul pe site.
+
+Pages->All Pages->view(la pagina care dorim)
+
+
