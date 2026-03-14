@@ -122,18 +122,40 @@ Observam ca a disparut Contact(ceea ce demonstreaza ca pluginul Contact form a f
 
 Accesam Contact->Contact Form si copiem continutul din Shortcode
 
-
+<img src="imagini/s25.png" width="500">
 
 Accesam Pages->Add page si inseram codul copiat si publicam pagina
+
+<img src="imagini/s26.png" width="500">
 
 2.Creează câteva postări pe blog cu conținut diferit (text, imagini).
 
 Accesam Pages->Add page si inseram imaginea si textul si publicam pagina
 
-
+<img src="imagini/s24.png" width="500">
 
 3.Verifică modul în care este afișat conținutul pe site.
 
 Pages->All Pages->view(la pagina care dorim)
 
+Pagina cu imagine si text
 
+<img src="imagini/s27.png" width="500">
+
+Pagina cu formularul
+
+<img src="imagini/s28.png" width="500">
+
+## Întrebări de control
+
+1.Ce face o temă în WordPress și ce face un plugin?
+
+Tema da culori siteului (ca un fel css) iar pluginul da functionalitati (ca JavaScript) 
+
+2.De ce nu se pierde conținutul site-ului atunci când se schimbă tema?
+
+Deoarece tot continutul se salveaza in baza de date.
+
+3.Cum se poate modifica aspectul site-ului fără a edita codul?
+
+Prin Customize (care il gasesti in acelasi meniu appearance ca si tema)
