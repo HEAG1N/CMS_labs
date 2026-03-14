@@ -23,17 +23,18 @@ Să înveți cum să instalezi WordPress într-un mediu local, să te familiariz
 2.Dezarhivează fișierele în folderul htdocs
 
 3.În browser, deschide http://localhost/wordpress și parcurge procesul de instalare introducand toate datele necesare 
+
 Alegem limba instalarii
 
 <img src="imagini/s2.png" width="500">
 
 <img src="imagini/s3.png" width="500">
 
-introducem datele necesare
+Introducem datele necesare
 
 <img src="imagini/s4.png" width="500">
 
-pornim instalarea 
+Pornim instalarea 
 
 <img src="imagini/s5.png" width="500">
 
@@ -41,11 +42,24 @@ Alegem titlul si cream cont
 
 <img src="imagini/s6a.png" width="500">
 
-ne logam si intram in pagina principala
+Ne logam si intram in pagina principala
 
 <img src="imagini/s7.png" width="500">
 
 ### Pasul 3. Setările inițiale ale site-ului
 
-În panoul de administrare, accesează secțiunea Settings → General. Schimbă numele site-ului și fusul orar.
+1.În panoul de administrare, accesează secțiunea Settings → General. Schimbă numele site-ului și fusul orar.
 
+<img src="imagini/s8.png" width="500">
+
+<img src="imagini/S9.png" width="500">
+
+2.În Settings → Permalinks, selectează opțiunea Post name pentru link-uri mai prietenoase.
+
+<img src="imagini/s10.png" width="500">
+
+### Pasul 4. Lucrul cu teme
+
+1.Deschide secțiunea Appearance → Themes.
+
+2.Instalează o temă nouă din catalogul oficial (de exemplu, „Astra”).
