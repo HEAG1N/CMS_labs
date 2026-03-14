@@ -14,7 +14,7 @@ Să înveți cum să instalezi WordPress într-un mediu local, să te familiariz
 
 3.În phpMyAdmin, creează o bază de date nouă, de exemplu wp_lab2
 
-<img src="s1.png" width="500">
+<img src="imagini/s1.png" width="500">
 
 ### Pasul 2. Instalarea WordPress
 
