@@ -62,4 +62,48 @@ Ne logam si intram in pagina principala
 
 1.Deschide secțiunea Appearance → Themes.
 
+<img src="imagini/s11.png" width="500">
+
 2.Instalează o temă nouă din catalogul oficial (de exemplu, „Astra”).
+
+<img src="imagini/s12.png" width="500">
+
+3.Activează tema și compară cum s-a schimbat aspectul site-ului.
+
+<img src="imagini/s13.png" width="500">
+
+<img src="imagini/s14.png" width="500">
+
+4.In meniul Appearance → Customize, configurează
+
+4.1 logoul site-ului
+
+<img src="imagini/s15.png" width="500">
+
+4.2 schema de culori
+
+<img src="imagini/s16.png" width="500">
+
+4.3 titlul și descrierea(In "Astra" poti doar titlu)
+
+<img src="imagini/s17.png" width="500">
+
+### Pasul 5. Lucrul cu plugin-uri
+
+1. Accesează secțiunea Plugins → Add New.
+
+2. Instalează și activează:
+
+2.1 pluginul Classic Editor (pentru editorul clasic de postări);
+
+
+
+2.2 pluginul Contact Form 7 (pentru adăugarea unui formular de contact).
+
+
+
+3.Verifică noile funcționalități în panoul de administrare (adăugarea unei postări cu Classic Editor și crearea unui formular cu Contact Form 7).
+
+
+
+4.În Plugins → Installed Plugins, dezactivează unul dintre plugin-uri și asigură-te că funcționalitatea acestuia a dispărut.
