@@ -34,26 +34,6 @@ Să înveți cum să creezi o temă WordPress personalizată, să înțelegi str
 
 ### Pasul 3. Componente comune ale șabloanelor
 
-<img src="imagini/s2.png" width="500">
-
-<img src="imagini/s3.png" width="500">
-
-Introducem datele necesare
-
-<img src="imagini/s4.png" width="500">
-
-Pornim instalarea 
-
-<img src="imagini/s5.png" width="500">
-
-Alegem titlul si cream cont 
-
-<img src="imagini/s6a.png" width="500">
-
-Ne logam si intram in pagina principala
-
-<img src="imagini/s7.png" width="500">
-
 ### Pasul 3. Setările inițiale ale site-ului
 
 1.Creează fișierul header.php și mută acolo codul antetului site-ului (până la începutul conținutului principal).
