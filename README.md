@@ -1,8 +1,10 @@
-# Lucrarea de laborator nr. 4. Dezvoltarea unui plugin pentru WordPress
+# Lucrarea de laborator nr. 5. Securitatea WordPress
 
 ## Scopul lucrării
 
-Să înveți modelul extensibil de date al WordPress: crearea unui CPT (Custom Post Type), a unei taxonomii personalizate, a metadatelor cu metabox în panoul de administrare, precum și implementarea unui widget pentru afișarea datelor pe site.
+Consolidarea celor mai importante practici de securitate în WordPress: gestionarea rolurilor și parolelor, actualizări, hardening de bază (wp-config.php, permisiuni, dezactivarea editorului), 
+backup, monitorizarea activității și configurarea pas cu pas a All In One WP Security & Firewall (AIOS) pentru protecție împotriva atacurilor de tip brute-force, WAF de bază și controlul 
+permisiunilor.
 
 ## Condiții
 
@@ -10,11 +12,11 @@ Creează un plugin educațional numit USM Notes, care adaugă pe site o secțiun
 
 ###  Pasul 1. Pregătirea mediului
 
-1.În instalarea locală WordPress, accesează folderul wp-content/pugins
+1.În instalarea locală WordPress, accesează panoul de administrare.
 
 <img width="317" height="97" alt="image" src="https://github.com/user-attachments/assets/5f09989a-f3ad-4b4e-8dca-91289c245a48" />
 
-2.Creează un director pentru pluginul tău, de exemplu usm-notes
+2.Asigură-te că ai acces de administrator.
 
 <img width="228" height="124" alt="image" src="https://github.com/user-attachments/assets/e7dd9e8e-14ff-47a8-b6de-946e215fd767" />
 
