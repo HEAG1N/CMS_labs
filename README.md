@@ -1,4 +1,4 @@
-<img width="1370" height="416" alt="image" src="https://github.com/user-attachments/assets/728ff9cd-bb82-4f1d-aa82-10ac64ff79a2" /># Lucrarea de laborator nr. 5. Securitatea WordPress
+# Lucrarea de laborator nr. 5. Securitatea WordPress
 
 ## Scopul lucrării
 
